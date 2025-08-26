@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+    position: fixed;
+    margin-left: 270px;
+    bottom: 0;
+}
+
+.nav2{
+    position: fixed;
+    bottom: 0;
+    margin-left: 5px;
+}
+.nav3{
+    position: fixed;
+    bottom: 0;
+    margin-left: 130px;
+}
+
+.tituloRep{
+     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+body{
+    background-color: #b3b3b3;
+    color: black;
+}
+
+.H5{
+    text-decoration: underline;
+}
+
+.balao{
+    background-color: #d3d3d3;
+    margin: 30px auto 0 auto;
+    width: 300px;
+    height:  220px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-bottom: 30px;
+
+}
+
+.paragrafo{
+    font-size: 30px;
+    margin: 15px;
+}
+li{
+    margin: 10px;
+}
+
+.imagemRep{
+    height: 420px;
+    width: 350px;
+    margin: 15px;
+}
+
+h1{
+    margin: 10px;
+}
+
+h2{
+    margin: 10px;
+}
+
+h3{
+    margin: 10px;
+}
+
+h4{
+    margin: 10px;
+}
+
+h5{
+    margin: 10px;
+}
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: bold;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}

@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav1{
+    position: fixed;
+    margin-left: 270px;
+    bottom: 0;
+}
+
+.nav2{
+    position: fixed;
+    bottom: 0;
+    margin-left: 5px;
+}
+.nav3{
+    position: fixed;
+    bottom: 0;
+    margin-left: 130px;
+    
+
+}
+
+.Mapa{
+    margin-bottom: 20px;
+}
+body{
+    background-color: #F2ECD8;
+    background-image: url(Imagens/Captura\ de\ tela\ 2025-08-19\ 105702.png);
+    background-repeat: no-repeat;
+    color: black;
+}
+.balao{
+    background-color: #d3d3d3;
+    margin: 30px auto 0 auto;
+    width: 350px;
+    height: 360px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.balao2{
+    background-color: #d3d3d3;
+    margin: 30px auto 0 auto;
+    width: 350px;
+    height: 270px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.balao3{
+    background-color: #d3d3d3;
+    margin: 30px auto 0 auto;
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px ;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 20px;
+    
+}
+
+.p1{
+    text-align: center;
+    text-decoration: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-decoration: underline;
+}
+
+.paragrafo{
+    margin: 30px;
+    font-size: 16px;
+}
+
+.paragrafo2{
+    margin: 30px;
+    font-size: 16px;
+}
+
+.paragrafo3{
+    margin: 20px;
+    font-size: 16px;
+}
+
+.titulo-video{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.videoBiografia{
+margin-left: 18px;
+margin-bottom: 20px;
+   
+}
+
+.titulo-mapa{
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mapa{
+    margin: 10px;
+    height: 220px;
+    width: 370px;
+}
+
+
+
+footer{
+    text-align: center;
+    text-decoration: bold;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}

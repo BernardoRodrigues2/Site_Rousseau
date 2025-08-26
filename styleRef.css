@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav2{
+    position: fixed;
+    bottom: 0;
+    margin-left: 5px;
+}
+.nav3{
+    position: fixed;
+    bottom: 0;
+    margin-left: 300px;
+    
+
+}
+
+.TituloRef{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+body{
+    background-color: #f2f2f2;
+    color: black;
+}
+
+.paragrafo{
+    margin: 10px;
+    
+}
+h1{
+    margin: 10px;
+}
+
+li{
+    margin: 10px;
+}
+
+.balao{
+    background-color: #d3d3d3;
+    margin: 30px auto 0 auto;
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.Video1{
+margin: 15px;
+}
+
+.Video2{
+margin: 15px;
+}
+
+footer{
+    text-align: center;
+    text-decoration: bold;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}

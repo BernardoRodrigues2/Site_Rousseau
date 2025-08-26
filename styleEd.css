@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav1{
+    position: fixed;
+    margin-left: 270px;
+    bottom: 0;
+}
+
+.nav2{
+    position: fixed;
+    bottom: 0;
+    margin-left: 5px;
+}
+.nav3{
+    position: fixed;
+    bottom: 0;
+    margin-left: 130px;
+    
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 20px;
+
+}
+.balao{
+     background-color: #ffffff;
+    margin: 30px auto 0 auto;
+    width: 310px;
+    height: 180px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.balao2{
+     background-color: #ffffff;
+    margin: 30px auto 0 auto;
+    width: 310px;
+    height: 200px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.imagemPensador{
+    margin: 10px;
+}
+
+.imagemPensador2{
+    margin: 10px;
+    margin-bottom: 40px;
+}
+
+.Frases{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+.podcastTitulo{
+text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.balaoTitulo{
+    background-color: #ffffff;
+    margin: 30px auto 0 auto;
+    width: 310px;
+    height: 80px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.FrasesRou{
+    background-color: #ffffff;
+    margin: 30px auto 0 auto;
+    width: 310px;
+    height: 40px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.paragrafo{
+    margin: 10px;
+}
+.paragrafo2{
+    margin: 10px;
+}
+.podcast{
+    margin: 4px;
+    margin-bottom: -50px
+}
+body{
+    background-color: #d3d3d3d3;
+    background-image:   url(Imagens/Fun.png);
+    background-repeat: repeat-y;
+    color: black;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    text-decoration: bold;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}
