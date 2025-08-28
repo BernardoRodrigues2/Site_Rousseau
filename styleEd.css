@@ -57,11 +57,13 @@
 }
 .imagemPensador{
     margin: 10px;
+    border-radius: 20px;
 }
 
 .imagemPensador2{
     margin: 10px;
     margin-bottom: 40px;
+    border-radius: 20px;
 }
 
 .Frases{
